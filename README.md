@@ -132,6 +132,23 @@ Use seasonal promotions to boost sales during low-spend months.
 Offer personalized deals based on customer spending categories to increase loyalty.
 
 
+## 🔑 Key Insights (Short & Easy Language)
+
+Total credit card spending is $73.69M from 1M transactions.
+
+Online Shopping is the highest spending category.
+
+Entertainment has the lowest spending.
+
+Average transaction value is $70.28.
+
+Spending increases during year-end (December).
+
+Monthly spending shows seasonal patterns, not consistent throughout the year.
+
+Customers prefer online and essential purchases over entertainment.
+
+
 
 ## Dashboard Preview
 
