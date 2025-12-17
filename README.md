@@ -152,7 +152,7 @@ Customers prefer online and essential purchases over entertainment.
 
 ## Dashboard Preview
 
-![screenshort]()
+![screenshort](https://github.com/ritik168/Credit-Card-Transactions-Analysis-Dashboard/blob/main/Screenshot%202025-12-16%20235238.png)
 
 
 ## Project End.
